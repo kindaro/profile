@@ -1,0 +1,14 @@
+name: profile
+
+dependencies:
+    - base
+    - timeit
+    - typed-process
+    - text
+    - bytestring
+    - filepath
+    - ghc-prof
+
+executable:
+    main: Profile
+
